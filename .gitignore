@@ -1,0 +1,24 @@
+# 프로젝트 제외 경로
+/.venv/
+# Secrets
+.env
+!example.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Local caches (yours)
+.industry_cache.json
+.sec_ticker_cache.json
+
+# OS junk
+.DS_Store
+Thumbs.db
