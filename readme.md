@@ -5,7 +5,7 @@ This project analyzes company filings (10-K / 10-Q) from the SEC EDGAR system an
 ----
 Skip the 200-page SEC filings!
 
-Just type a stock ticker like NVDA or Nvidia → get AI-powered insights from the latest 10-K/10-Q in a second supported with the most recent articles.
+Just type a stock name or ticker NVDA or Nvidia → get AI-powered insights from the latest 10-K/10-Q in a second supported with the most recent articles.
 
 ----
 
